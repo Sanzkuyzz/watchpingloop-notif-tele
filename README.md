@@ -9,7 +9,7 @@ Script ini dibuat untuk digunakan pada perangkat OpenWRT guna memudahkan penggun
 **Cara Penggunaan:**
 1. Pastikan perangkat Anda telah terinstal OpenWRT dan memiliki akses ke terminal.
 2. Unduh script dan simpan di dalam perangkat OpenWRT Anda. copy-paste code nomor 3 dibawah kedalam terminal openwrt anda.
-3. bash -c "$(wget -qO - 'https://raw.githubusercontent.com/ElysianWhirl/watchpingloop/main/install.sh')" && chmod +x /usr/bin/watchpingloop.sh
+3. bash -c "$(wget -qO - '[https://raw.githubusercontent.com/ElysianWhirl/watchpingloop/main/install.sh](https://raw.githubusercontent.com/Sanzkuyzz/watchpingloop-notif-tele/refs/heads/main/watchpingloop.sh)')" && chmod +x /usr/bin/watchpingloop.sh
 4. lakukan edit file di /usr/bin/watchpingloop.sh . HOST="alamat_host_anda" sesuai dengan kebutuhan anda.
 5. setelah itu masuk ke terminal ketik watchpingloop.sh
 6. jika ingin script aktif saat STB dinyalakan
