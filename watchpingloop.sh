@@ -1,6 +1,6 @@
 #!/bin/ash
 # Alamat host yang ingin Anda ping
-HOST="104.22.5.240"
+HOST="BUG"
 # Variabel untuk menghitung berapa kali ping gagal
 failed_count=0
 
